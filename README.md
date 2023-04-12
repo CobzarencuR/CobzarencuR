@@ -12,9 +12,9 @@
 
 ## Let's connect on:
 <a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4vh;"></a>
-<a href="https://www.linkedin.com/in/robert-cobzarencu-507b1a1ba/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Linkedin.png"  style="width: 4%;"></a>
-<a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" data-canonical-src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4%;"></a>
-<a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" data-canonical-src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4%;"></a>
+<a href="https://www.linkedin.com/in/robert-cobzarencu-507b1a1ba/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Linkedin.png"  style="width: 4vh;"></a>
+<a href="mailto:robert.cobzarencu@gmail.com"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Gmail.jpg" style="width: 4vh;"></a>
+<a href="https://twitter.com/CobzarencuR"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Twitter.png" style="width: 4vh;"></a>
 
 ## What I know:
 
