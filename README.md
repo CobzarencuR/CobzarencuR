@@ -17,6 +17,7 @@
 <a href="https://twitter.com/CobzarencuR"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Twitter.png" style="width: 4vh;"></a>
 
 ## What I know:
+<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-c%2B%2B-480.png" style="width: 4vh;">
 
 ## What I'm currently learning:
 
