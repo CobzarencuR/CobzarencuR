@@ -11,7 +11,7 @@
 🤖 Founding Member & Former Mechanic of the Epsilon RO-189 robotics team in the First Tech Challenge
 
 ## Let's connect on:
-<a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4%;"></a>
+<a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 6vh;"></a>
 <a href="https://www.linkedin.com/in/robert-cobzarencu-507b1a1ba/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Linkedin.png"  style="width: 4%;"></a>
 <a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" data-canonical-src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4%;"></a>
 <a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" data-canonical-src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4%;"></a>
