@@ -21,9 +21,9 @@
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-c%2B%2B-480.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-html-5-480.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-css3-480.png" style="width: 4vh;">
+<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/ux.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-python-480.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-arduino-480.png" style="width: 4vh;">
-<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/ux.png" style="width: 4vh;">
   
 ## What I'm currently learning:
 <a> <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-javascript-480.png" style="width: 4vh;"> </a>
