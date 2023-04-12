@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, my name is Robert 👋
 
-<!--
-**CobzarencuR/CobzarencuR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Currently studying Economics & Computer Science at The Academy of Economic Studies in Bucharest
 
-Here are some ideas to get you started:
+🌐 Working at Nextlab.tech as a Junior Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Helping people achieve their dream physique as a Fitness Instructor
+
+🏋‍♂️ ESX Intel World - Ambassador
+
+🤖 Founding Member & Former Mechanic of the Epsilon RO-189 robotics team in the First Tech Challenge
+
+## Let's connect on:
+
+## What I know:
+
+## What I'm currently learning:
+
+## Programs I use:
