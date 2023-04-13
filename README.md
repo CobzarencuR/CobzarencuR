@@ -1,4 +1,4 @@
-# Hi, my name is Robert 👋
+# Hi, I'm Robert Cobzarencu 👋
 
 📚 Currently studying Economics & Computer Science at The Academy of Economic Studies in Bucharest
 
