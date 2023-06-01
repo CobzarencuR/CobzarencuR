@@ -28,6 +28,9 @@
   
 ## What I'm currently learning:
 <a> <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-javascript-480.png" style="width: 4vh;"> </a>
+<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-node-js-400.png" style="width: 4vh;">
+<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-react-400.png" style="width: 4vh;">
+<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-spring-boot-400.png" style="width: 4vh;">
 
 ## Programs I use:
 <a> <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-visual-studio-480.png" style="width: 4vh;"> </a>
