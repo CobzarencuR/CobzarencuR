@@ -2,7 +2,7 @@
 
 📚 Currently studying Economics & Computer Science at The Academy of Economic Studies in Bucharest
 
-🌐 Working at Nextlab.tech as a Junior Programmer
+🌐 Worked as Junior Programmer at Nextlab.tech (nov. 2022 - mar. 2024)
 
 📝 Helping people achieve their dream physique as a Fitness Instructor
 
@@ -33,8 +33,7 @@
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-spring-boot-400.png" style="width: 4vh;">
 
 ## Programs I use:
-<a> <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-visual-studio-480.png" style="width: 4vh;"> </a>
-<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-visual-studio-code-2019-480.png" style="width: 4vh;">
+<a> <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-visual-studio-code-2019-480.png" style="width: 4vh;"> </a>
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-intellij-idea-400.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/scratch.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-canva-400.png" style="width: 4vh;">
