@@ -36,6 +36,5 @@
 <a> <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-visual-studio-code-2019-480.png" style="width: 4vh;"> </a>
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-intellij-idea-400.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-canva-400.png" style="width: 4vh;">
-<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-filmora-400.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/premiere-pro.png" style="width: 4vh;">
-
+<img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-filmora-400.png" style="width: 4vh;">
