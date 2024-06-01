@@ -2,7 +2,7 @@
 
 📚 Currently studying Economics & Computer Science at The Academy of Economic Studies in Bucharest
 
-🌐 Worked as Junior Programmer at Nextlab.tech (nov. 2022 - mar. 2024)
+🌐 Worked as Robotics & Educational Technology Developer at Nextlab.tech (nov. 2022 - mar. 2024)
 
 📝 Helping people achieve their dream physique as a Fitness Instructor
 
