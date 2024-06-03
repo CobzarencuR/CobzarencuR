@@ -30,6 +30,7 @@
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-python-480.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-java-480.png" style="width: 4vh;">
 <img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/icons8-arduino-480.png" style="width: 4vh;">
+<img src="https://github.com/CobzarencuR/Programming-Icons/blob/main/sh.png" style="width: 4vh;">
 
 ## Let's connect on:
 <a href="https://www.instagram.com/robert_cobzarencu/"><img src="https://github.com/CobzarencuR/CobzarencuR/blob/main/Instagram.png" style="width: 4vh;"></a>
