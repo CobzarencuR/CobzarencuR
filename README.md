@@ -4,8 +4,6 @@
 
 🌐 Worked as Robotics & Educational Technology Developer at Nextlab.tech (nov. 2022 - mar. 2024)
 
-📝 Helping people achieve their dream physique as a Fitness Instructor
-
 🏋‍♂️ ESX Intel World - Ambassador
 
 🤖 Founding Member & Former Mechanic of the Epsilon RO-189 robotics team in the First Tech Challenge
