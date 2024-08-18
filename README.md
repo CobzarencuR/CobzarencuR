@@ -2,7 +2,7 @@
 
 📚 Currently studying Economics & Computer Science at The Academy of Economic Studies in Bucharest
 
-🌐 Worked as Robotics & Educational Technology Developer at Nextlab.tech (nov. 2022 - mar. 2024)
+🌐 Worked as Software Developer at Nextlab.tech (nov. 2022 - mar. 2024)
 
 🏋‍♂️ ESX Intel World - Ambassador
 
